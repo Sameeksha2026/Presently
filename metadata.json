@@ -1,0 +1,6 @@
+{
+  "name": "Presently AI",
+  "description": "AI Presentation Creator, Speech Generator, and Live Practice Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
